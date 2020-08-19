@@ -1,6 +1,6 @@
 {
   "name": "minitube",
-  "homepage": "https://www.bryndonhumphrey.com/minitube/",
+  "homepage": "https://bryndonhumphrey.github.io/minitube",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
