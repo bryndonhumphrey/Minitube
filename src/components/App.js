@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
-import SearchBar from "./SearchBar";
-import VideoList from "./VideoList";
-import VideoDetail from "./VideoDetail";
-import useVideos from "../hooks/useVideos";
-import Header from "../components/Header";
+import SearchBar from "./SearchBar.js";
+import VideoList from "./VideoList.js";
+import VideoDetail from "./VideoDetail.js";
+import useVideos from "../hooks/useVideos.js";
+import Header from "../components/Header.js";
 
 const App = () => {
   const [selectedVideo, setSelectedVideo] = useState(null);

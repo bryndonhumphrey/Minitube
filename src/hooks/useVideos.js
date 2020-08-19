@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import youtube from "../apis/youtube";
+import youtube from "../apis/youtube.js";
 
 const KEY = "AIzaSyDieahZw874EsIbajPxmW0T2XquUlHaOQo";
 
